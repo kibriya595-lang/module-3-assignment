@@ -9,6 +9,6 @@ const phone = undefined;
 
 console.log(typeof name);        // string
 console.log(typeof age);         // number
-console.log(typeof isStudent);   // true
+console.log(typeof isStudent);   // boolean
 console.log(typeof salary);      // object
 console.log(typeof phone)        // undefined

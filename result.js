@@ -20,4 +20,4 @@ else {
     grade = "Fail";                     // Your Grade: Fail
 }
 
-console.log("Your Grade:" + grade);
+console.log("Your Grade: " + grade);
