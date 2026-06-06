@@ -1,11 +1,11 @@
 
 // Data Types Check
 
-let name = "Md Mustakim Billah";
-let age = 20;
-let isStudent = true;
-let salary = null;
-let phone;
+const name = "Md Mustakim Billah";
+const age = 20;
+const isStudent = true;
+const salary = null;
+const phone = undefined;
 
 console.log(typeof name);        // string
 console.log(typeof age);         // number
